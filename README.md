@@ -1,1 +1,1 @@
-https://github.com/user-attachments/assets/982759bd-935b-4887-bc73-62a45978f6ca
+<video src="https://github.com/user-attachments/assets/982759bd-935b-4887-bc73-62a45978f6ca" controls width="300" poster="https://raw.githubusercontent.com/ninhnk-0320/ninhnk-0320/main/poster.svg"></video>
